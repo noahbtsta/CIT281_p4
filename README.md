@@ -8,7 +8,7 @@ I also got more practice with writing code and testing it on the terminal.
 - Added fastify by using npm install --save fastify on the terminal
 
     - Used the date file and created functions to retreive specific values
- ![im](images/QAdata)
+ ![im](images/QAdata.png)
 
 - Created 6 functions that returns an Array with specific values
     - getQuestions()
